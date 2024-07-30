@@ -30,3 +30,4 @@
 5. [Дизайн система](uz/uzum/tmm/3_engineering_practices/5.Дизайн_система.md)
 6. [Перформанс](uz/uzum/tmm/3_engineering_practices/6.Перформанс.md)
 7. [Информационная безопасность](uz/uzum/tmm/3_engineering_practices/7.Информационная_безопасность.md)
+8. [База знаний](uz/uzum/tmm/3_engineering_practices/8.База_знаний.md)
